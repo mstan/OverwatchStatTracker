@@ -1,0 +1,1 @@
+This is an open sourcing of a public facing project to track your Overwatch win loss statistics. You can find out more about it here at: https://www.reddit.com/r/OverwatchUniversity/comments/7flvb1/i_tracked_200_games_to_figure_out_my_best_heroes/
